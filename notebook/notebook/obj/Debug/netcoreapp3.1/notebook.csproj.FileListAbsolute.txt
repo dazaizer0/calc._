@@ -1,0 +1,15 @@
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.deps.json
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.runtimeconfig.json
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.runtimeconfig.dev.json
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.csprojAssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.csproj.GenerateResource.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.AssemblyInfoInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.AssemblyInfo.cs
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.genruntimeconfig.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.Notebook.resources
