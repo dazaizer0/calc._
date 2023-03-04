@@ -7,11 +7,13 @@ namespace RandomWordsGenerator
     {
         static void Main(string[] args)
         {
+            Random random = new Random();
+            #region colors
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.BackgroundColor = ConsoleColor.Black;
+            #endregion
 
-            Random random = new Random();
-
+            #region writeing
             while (true)
             {
                 int wers_len = random.Next(15, 30);
@@ -25,8 +27,10 @@ namespace RandomWordsGenerator
 
                 Console.WriteLine(); ;
             }
+            #endregion
         }
 
+        #region funkcje-losujace
         static int los(Random random, int ListLenght)
         {
             int los = random.Next(0, ListLenght); 
@@ -36,5 +40,6 @@ namespace RandomWordsGenerator
         {
             return dwords[los];
         }
+        #endregion
     }
 }
