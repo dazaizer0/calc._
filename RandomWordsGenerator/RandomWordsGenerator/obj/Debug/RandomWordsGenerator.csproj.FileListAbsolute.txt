@@ -4,3 +4,4 @@ D:\GRA - NIE KASOWAC\new ._\calc._\RandomWordsGenerator\RandomWordsGenerator\bin
 D:\GRA - NIE KASOWAC\new ._\calc._\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.csproj.CoreCompileInputs.cache
 D:\GRA - NIE KASOWAC\new ._\calc._\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.exe
 D:\GRA - NIE KASOWAC\new ._\calc._\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.csprojAssemblyReference.cache
