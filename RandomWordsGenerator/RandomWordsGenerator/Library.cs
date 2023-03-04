@@ -8,6 +8,9 @@ namespace RandomWordsGenerator
 {
     class Library
     {
+        /// <summary>
+        /// Words Library
+        /// </summary>
         public static List<string> dwords = new List<string>()
         {
             " dupa", " kerbal", " nani", " DIO!", " kokoko", " NIGERUNDAIO",
@@ -16,6 +19,9 @@ namespace RandomWordsGenerator
 
         private static int llen = dwords.Count;
 
+        /// <summary>
+        /// WordList Count
+        /// </summary>
         public static int LLen
         {
             get { return llen; }
