@@ -1,0 +1,15 @@
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\bin\Debug\netcoreapp3.1\Forms_clicker.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\bin\Debug\netcoreapp3.1\Forms_clicker.deps.json
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\bin\Debug\netcoreapp3.1\Forms_clicker.runtimeconfig.json
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\bin\Debug\netcoreapp3.1\Forms_clicker.runtimeconfig.dev.json
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\bin\Debug\netcoreapp3.1\Forms_clicker.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\bin\Debug\netcoreapp3.1\Forms_clicker.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\obj\Debug\netcoreapp3.1\Forms_clicker.csprojAssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\obj\Debug\netcoreapp3.1\Forms_clicker.Form1.resources
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\obj\Debug\netcoreapp3.1\Forms_clicker.csproj.GenerateResource.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\obj\Debug\netcoreapp3.1\Forms_clicker.AssemblyInfoInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\obj\Debug\netcoreapp3.1\Forms_clicker.AssemblyInfo.cs
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\obj\Debug\netcoreapp3.1\Forms_clicker.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\obj\Debug\netcoreapp3.1\Forms_clicker.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\obj\Debug\netcoreapp3.1\Forms_clicker.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\Forms_clicker\Forms_clicker\obj\Debug\netcoreapp3.1\Forms_clicker.genruntimeconfig.cache
