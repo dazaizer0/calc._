@@ -1,0 +1,7 @@
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook_console\notebook_console\bin\Debug\notebook_console.exe.config
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook_console\notebook_console\bin\Debug\notebook_console.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook_console\notebook_console\bin\Debug\notebook_console.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook_console\notebook_console\obj\Debug\notebook_console.csprojAssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook_console\notebook_console\obj\Debug\notebook_console.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook_console\notebook_console\obj\Debug\notebook_console.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\notebook_console\notebook_console\obj\Debug\notebook_console.pdb
