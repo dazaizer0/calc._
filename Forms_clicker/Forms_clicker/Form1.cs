@@ -19,7 +19,6 @@ namespace Forms_clicker
             label.BackColor = color;
             label.Visible = true;
             label.Enabled = true;
-            label1.Text = score.ToString();
         }
 
         public Form1()
@@ -30,12 +29,23 @@ namespace Forms_clicker
         private void button1_Click(object sender, EventArgs e)
         {
             score += 1;
+            button1.Text = score.ToString();
             // MessageBox.Show("clicked");
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
-            score += 1;
+
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
