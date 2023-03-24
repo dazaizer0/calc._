@@ -1,0 +1,15 @@
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\bin\Debug\net6.0\01app.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\bin\Debug\net6.0\01app.deps.json
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\bin\Debug\net6.0\01app.runtimeconfig.json
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\bin\Debug\net6.0\01app.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\bin\Debug\net6.0\01app.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\01app.csproj.AssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\01app.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\01app.AssemblyInfoInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\01app.AssemblyInfo.cs
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\01app.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\01app.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\refint\01app.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\01app.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\01app.genruntimeconfig.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\01app\01app\obj\Debug\net6.0\ref\01app.dll
