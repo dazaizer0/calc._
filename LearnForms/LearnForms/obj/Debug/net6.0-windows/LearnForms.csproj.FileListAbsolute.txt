@@ -1,0 +1,17 @@
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\bin\Debug\net6.0-windows\LearnForms.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\bin\Debug\net6.0-windows\LearnForms.deps.json
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\bin\Debug\net6.0-windows\LearnForms.runtimeconfig.json
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\bin\Debug\net6.0-windows\LearnForms.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\bin\Debug\net6.0-windows\LearnForms.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.csproj.AssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.csproj.GenerateResource.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.AssemblyInfoInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.AssemblyInfo.cs
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\refint\LearnForms.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.genruntimeconfig.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\ref\LearnForms.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\LearnForms\LearnForms\obj\Debug\net6.0-windows\LearnForms.Form.resources
