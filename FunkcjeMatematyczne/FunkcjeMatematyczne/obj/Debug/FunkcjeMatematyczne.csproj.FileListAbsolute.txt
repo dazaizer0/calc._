@@ -1,0 +1,8 @@
+D:\GRA - NIE KASOWAC\new ._\calc._\FunkcjeMatematyczne\FunkcjeMatematyczne\bin\Debug\FunkcjeMatematyczne.exe.config
+D:\GRA - NIE KASOWAC\new ._\calc._\FunkcjeMatematyczne\FunkcjeMatematyczne\bin\Debug\FunkcjeMatematyczne.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\FunkcjeMatematyczne\FunkcjeMatematyczne\bin\Debug\FunkcjeMatematyczne.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\FunkcjeMatematyczne\FunkcjeMatematyczne\obj\Debug\FunkcjeMatematyczne.csproj.AssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\FunkcjeMatematyczne\FunkcjeMatematyczne\obj\Debug\FunkcjeMatematyczne.csproj.SuggestedBindingRedirects.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\FunkcjeMatematyczne\FunkcjeMatematyczne\obj\Debug\FunkcjeMatematyczne.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\FunkcjeMatematyczne\FunkcjeMatematyczne\obj\Debug\FunkcjeMatematyczne.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\FunkcjeMatematyczne\FunkcjeMatematyczne\obj\Debug\FunkcjeMatematyczne.pdb
