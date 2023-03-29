@@ -18,7 +18,7 @@ namespace FunkcjeMatematyczne
             int x = 9;
             int y = 9;
 
-            Console.Write("[p - punkt] [fl - funkcja liniowa]: ");
+            Console.Write("[p - punkt] [fl - funkcja liniowa] [fk - funkcja kwadratowa]: ");
             var choice = Console.ReadLine();
             #endregion
 
@@ -44,7 +44,7 @@ namespace FunkcjeMatematyczne
                         for (int i = y; i >= -y; i--)
                         {
 
-                            if ( i < 0) { Console.Write(i + " "); }
+                            if (i < 0) { Console.Write(i + " "); }
                             else { Console.Write(i + "  "); }
 
                             for (int k = -x; k <= x; k++)
@@ -109,6 +109,7 @@ namespace FunkcjeMatematyczne
 
                         for (int j = 0; j <= 9; j++)
                         {
+
                             x_f = j;
 
                             Console.WriteLine("funkcja: y = " + a + "x" + " + " + b);
@@ -146,13 +147,21 @@ namespace FunkcjeMatematyczne
                             }
                         }
 
-                        
 
-                        Thread.Sleep(50000);
+
+                        Thread.Sleep(20000);
                         Console.Clear();
                     }
                 #endregion
 
+                case "fk":
+                    // y = ax^2 + bx + c
+
+                    int a_ = int.Parse(Console.ReadLine());
+                    int b_ = int.Parse(Console.ReadLine());
+                    int c_ = int.Parse(Console.ReadLine());
+
+                    break;
                 default:
 
                     break;
