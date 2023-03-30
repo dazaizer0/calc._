@@ -1,0 +1,15 @@
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\bin\Debug\net6.0\Funkcje.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\bin\Debug\net6.0\Funkcje.deps.json
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\bin\Debug\net6.0\Funkcje.runtimeconfig.json
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\bin\Debug\net6.0\Funkcje.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\bin\Debug\net6.0\Funkcje.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\Funkcje.csproj.AssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\Funkcje.GeneratedMSBuildEditorConfig.editorconfig
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\Funkcje.AssemblyInfoInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\Funkcje.AssemblyInfo.cs
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\Funkcje.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\Funkcje.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\refint\Funkcje.dll
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\Funkcje.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\Funkcje.genruntimeconfig.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Funkcje\Funkcje\obj\Debug\net6.0\ref\Funkcje.dll

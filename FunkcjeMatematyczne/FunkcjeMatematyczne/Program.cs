@@ -167,5 +167,46 @@ namespace FunkcjeMatematyczne
                     break;
             }
         }
+
+        public static void drawGraf(int x_max, int y_max, int p_x, int p_y)
+        {
+
+            for (int i = y_max; i >= -y_max; i--)
+            {
+
+                if (i < 0) { Console.Write(i + " "); }
+                else { Console.Write(i + "  "); }
+
+                for (int k = -y_max; k <= y_max; k++)
+                {
+
+                    if (i == p_y && k == p_x)
+                    {
+
+                        Console.ForegroundColor = ConsoleColor.Magenta;
+                        Console.Write(" P");
+                        Console.ForegroundColor = ConsoleColor.White;
+                    }
+                    else if (i == 0 && k == 0)
+                    {
+
+                        Console.ForegroundColor = ConsoleColor.Magenta;
+                        Console.Write(" 0");
+                        Console.ForegroundColor = ConsoleColor.White;
+                    }
+
+                    else if (i <= 10 && k == 0)
+                    { Console.Write(" Y"); }
+
+                    else if (i == 0 && k <= 10)
+                    { Console.Write(" X"); }
+
+                    else
+                    { Console.Write(" *"); }
+                }
+
+                Console.WriteLine();
+            }
+        }
     }
 }

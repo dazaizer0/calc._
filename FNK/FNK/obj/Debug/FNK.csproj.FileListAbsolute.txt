@@ -1,0 +1,8 @@
+D:\GRA - NIE KASOWAC\new ._\calc._\FNK\FNK\bin\Debug\FNK.exe.config
+D:\GRA - NIE KASOWAC\new ._\calc._\FNK\FNK\bin\Debug\FNK.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\FNK\FNK\bin\Debug\FNK.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\FNK\FNK\obj\Debug\FNK.csproj.AssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\FNK\FNK\obj\Debug\FNK.csproj.SuggestedBindingRedirects.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\FNK\FNK\obj\Debug\FNK.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\FNK\FNK\obj\Debug\FNK.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\FNK\FNK\obj\Debug\FNK.pdb
