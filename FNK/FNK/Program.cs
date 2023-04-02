@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
@@ -15,6 +16,9 @@ namespace FNK
         static void Main(string[] args)
         {
 
+            start:
+            Console.Clear();
+
             Console.WriteLine("Podaj a i b funkcji liniowej: ");
             Console.Write("a: ");
             var av = Console.ReadLine();
@@ -23,9 +27,7 @@ namespace FNK
             Console.Write("b: ");
             var bv = Console.ReadLine();
             int b = int.Parse(bv);
-
             Console.Clear();
-
 
             Console.WriteLine("Podaj ponkt x i y do zaznaczenia: ");
             Console.Write("x: ");
@@ -77,31 +79,16 @@ namespace FNK
             int fy8 = a * fx8 + b;
             int fy9 = a * fx9 + b;
 
-            if(a == 1 && b == 1 || b == 0)
-            {
-                fy0 = fy0 - 1;
-                fy1 = fy1 - 1;
-                fy2 = fy2 - 1;
-                fy3 = fy3 - 1;
-                fy4 = fy4 - 1;
-                fy5 = fy5 - 1;
-                fy6 = fy6 - 1;
-                fy7 = fy7 - 1;
-                fy8 = fy8 - 1;
-                fy9 = fy9 - 1;
-            }
-
-            int fym0 = -fy0;
-            int fym1 = -fy1;
-            int fym2 = -fy2;
-            int fym3 = -fy3;
-            int fym4 = -fy4;
-            int fym5 = -fy5;
-            int fym6 = -fy6;
-            int fym7 = -fy7;
-            int fym8 = -fy8;
-            int fym9 = -fy9;
-
+            int fym0 = a * fxm0 + b;
+            int fym1 = a * fxm1 + b;
+            int fym2 = a * fxm2 + b;
+            int fym3 = a * fxm3 + b;
+            int fym4 = a * fxm4 + b;
+            int fym5 = a * fxm5 + b;
+            int fym6 = a * fxm6 + b;
+            int fym7 = a * fxm7 + b;
+            int fym8 = a * fxm8 + b;
+            int fym9 = a * fxm9 + b;
 
             Console.WriteLine("y = " + a + "x + " + b);
 
@@ -152,6 +139,7 @@ namespace FNK
 
                     if(k == fx0 && i == 0)
                     {
+
                         m0x = k;
                         m0y = y;
                     }
@@ -172,7 +160,7 @@ namespace FNK
                         Console.ForegroundColor = ConsoleColor.White;
                     }
 
-                    else if ((a == 1 && b == 1 || b == 0) && ((i == fym0 && k == fxm0) || (i == fym1 && k == fxm1) || (i == fym2 && k == fxm2) || (i == fym3 && k == fxm3) || (i == fym4 && k == fxm4) || (i == fym5 && k == fxm5) || (i == fym6 && k == fxm6) || (i == fym7 && k == fxm7) || (i == fym8 && k == fxm8) || (i == fym9 && k == fxm9)))
+                    else if ((i == fym0 && k == fxm0) || (i == fym1 && k == fxm1) || (i == fym2 && k == fxm2) || (i == fym3 && k == fxm3) || (i == fym4 && k == fxm4) || (i == fym5 && k == fxm5) || (i == fym6 && k == fxm6) || (i == fym7 && k == fxm7) || (i == fym8 && k == fxm8) || (i == fym9 && k == fxm9))
                     {
 
                         Console.ForegroundColor = ConsoleColor.Magenta;
@@ -195,6 +183,19 @@ namespace FNK
             }
 
             // Console.WriteLine("Miejsce zerowe: " + m0x + " : " + m0y); in dev
+
+            Console.WriteLine("R - restart, E - zakoncz");
+            switch (Console.ReadKey(true).Key)
+            {
+
+                case ConsoleKey.R:
+                    goto start;
+
+                case ConsoleKey.E:
+                    goto end;
+            }
+
+            end:
             Console.ReadKey();
         }
 
