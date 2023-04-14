@@ -1,0 +1,11 @@
+D:\GRA - NIE KASOWAC\new ._\json_\json_\bin\Debug\json_.exe.config
+D:\GRA - NIE KASOWAC\new ._\json_\json_\bin\Debug\json_.exe
+D:\GRA - NIE KASOWAC\new ._\json_\json_\bin\Debug\json_.pdb
+D:\GRA - NIE KASOWAC\new ._\json_\json_\bin\Debug\Newtonsoft.Json.dll
+D:\GRA - NIE KASOWAC\new ._\json_\json_\bin\Debug\Newtonsoft.Json.xml
+D:\GRA - NIE KASOWAC\new ._\json_\json_\obj\Debug\json_.csproj.AssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\json_\json_\obj\Debug\json_.csproj.SuggestedBindingRedirects.cache
+D:\GRA - NIE KASOWAC\new ._\json_\json_\obj\Debug\json_.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\json_\json_\obj\Debug\json_.csproj.CopyComplete
+D:\GRA - NIE KASOWAC\new ._\json_\json_\obj\Debug\json_.exe
+D:\GRA - NIE KASOWAC\new ._\json_\json_\obj\Debug\json_.pdb
