@@ -1,1 +1,0 @@
-{"NAME":"O_OBJECT","ID":1,"STATISTICS_":[{"INI":"O_","EXP":3456122}]}

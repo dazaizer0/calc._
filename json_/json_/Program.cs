@@ -14,13 +14,15 @@ namespace json_
         static void Main(string[] args)
         {
 
-            /* WRITE
+            string path = @"save.json";
+
+            // WRITE
             
-            var OBJECT = new OBJECT()
+            /*var OBJECT = new OBJECT()
             {
 
-                NAME = "O_OBJECT",
-                ID = 0001,
+                NAME = "K_OBJECT",
+                ID = 1002,
 
                 STATISTICS_ = new List<STATISTICS>()
                 {
@@ -28,23 +30,24 @@ namespace json_
                     new STATISTICS()
                     {
 
-                        INI = "O_",
-                        EXP = 3456122
+                        INI = "K_",
+                        EXP = 1125234
                     }
                 }
             };
 
             string SERIALIZED = JsonConvert.SerializeObject(OBJECT);
-            string path = @"data.txt";
-            File.WriteAllText(path, SERIALIZED);*/
+            File.WriteAllText(path, SERIALIZED);
+
+            Console.WriteLine("saved...");
+            Console.ReadKey();  */
 
             // READ
 
-            string path = @"data.txt";
             string SERIALIZED_READ = File.ReadAllText(path);
             OBJECT OBJ = JsonConvert.DeserializeObject<OBJECT>(SERIALIZED_READ);
 
-            Console.WriteLine(OBJ.ID);
+            Console.WriteLine(OBJ.NAME + " " + OBJ.ID);
             Console.ReadKey();
         }
     }
