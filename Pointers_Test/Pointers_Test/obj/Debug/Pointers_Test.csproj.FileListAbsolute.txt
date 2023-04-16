@@ -1,0 +1,8 @@
+D:\GRA - NIE KASOWAC\new ._\calc._\Pointers_Test\Pointers_Test\bin\Debug\Pointers_Test.exe.config
+D:\GRA - NIE KASOWAC\new ._\calc._\Pointers_Test\Pointers_Test\bin\Debug\Pointers_Test.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\Pointers_Test\Pointers_Test\bin\Debug\Pointers_Test.pdb
+D:\GRA - NIE KASOWAC\new ._\calc._\Pointers_Test\Pointers_Test\obj\Debug\Pointers_Test.csproj.AssemblyReference.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Pointers_Test\Pointers_Test\obj\Debug\Pointers_Test.csproj.SuggestedBindingRedirects.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Pointers_Test\Pointers_Test\obj\Debug\Pointers_Test.csproj.CoreCompileInputs.cache
+D:\GRA - NIE KASOWAC\new ._\calc._\Pointers_Test\Pointers_Test\obj\Debug\Pointers_Test.exe
+D:\GRA - NIE KASOWAC\new ._\calc._\Pointers_Test\Pointers_Test\obj\Debug\Pointers_Test.pdb

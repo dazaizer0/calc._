@@ -19,17 +19,17 @@ namespace FNK
             start:
             Console.Clear();
 
-            Console.WriteLine("Podaj a i b funkcji liniowej: ");
-            Console.Write("a: ");
+            Console.WriteLine("write _a and _b of the linear function: ");
+            Console.Write("_a: ");
             var av = Console.ReadLine();
             int a = int.Parse(av);
 
-            Console.Write("b: ");
+            Console.Write("_b: ");
             var bv = Console.ReadLine();
             int b = int.Parse(bv);
             Console.Clear();
 
-            Console.WriteLine("Podaj ponkt x i y do zaznaczenia: ");
+            Console.WriteLine("enter the x and y coordinates of the point to be selected: ");
             Console.Write("x: ");
             var xv = Console.ReadLine();
             int p_x = int.Parse(xv);
@@ -121,11 +121,11 @@ namespace FNK
 
             if (a < 0)
             {
-                Console.WriteLine("Malejaca.");
+                Console.WriteLine("Decreasing.");
             }
             else
             {
-                Console.WriteLine("Rosnaca.");
+                Console.WriteLine("Growing.");
             }
 
             for (int i = y; i >= -y; i--)
@@ -184,14 +184,14 @@ namespace FNK
 
             // Console.WriteLine("Miejsce zerowe: " + m0x + " : " + m0y); in dev
 
-            Console.WriteLine("R - restart, E - zakoncz");
+            Console.WriteLine("R - restart, F - finish");
             switch (Console.ReadKey(true).Key)
             {
 
                 case ConsoleKey.R:
                     goto start;
 
-                case ConsoleKey.E:
+                case ConsoleKey.F:
                     goto end;
             }
 
