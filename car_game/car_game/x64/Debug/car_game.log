@@ -1,0 +1,4 @@
+﻿  car_game.cpp
+D:\GRA - NIE KASOWAC\new ._\calc._\car_game\car_game\car_game.cpp(56,24): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+D:\GRA - NIE KASOWAC\new ._\calc._\car_game\car_game\car_game.cpp(64,24): warning C4805: "==": niebezpieczne połączenie typu "int" oraz typu "bool" w operacji
+  car_game.vcxproj -> D:\GRA - NIE KASOWAC\new ._\calc._\car_game\x64\Debug\car_game.exe
