@@ -1,4 +1,5 @@
-﻿using System;
+﻿#region using
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
@@ -6,6 +7,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+#endregion
 
 namespace FNK
 {
@@ -40,6 +42,7 @@ namespace FNK
 
             Console.Clear();
 
+            #region variables
             int x = 9, y = 9;
 
             int m0x = 0;
@@ -89,7 +92,9 @@ namespace FNK
             int fym7 = a * fxm7 + b;
             int fym8 = a * fxm8 + b;
             int fym9 = a * fxm9 + b;
+            #endregion
 
+            #region function_solve
             Console.WriteLine("y = " + a + "x + " + b);
 
             Console.WriteLine("x : " + fx0 + ": y : " + fy0);
@@ -113,9 +118,11 @@ namespace FNK
             Console.WriteLine("x : " + fxm7 + ": y : " + fym7);
             Console.WriteLine("x : " + fxm8 + ": y : " + fym8);
             Console.WriteLine("x : " + fxm9 + ": y : " + fym9);
-
-            funkcja_punkt(x, y, p_x, p_y);
             Console.WriteLine();
+
+            Console.WriteLine("pk.x : " + p_x + ": pk.y : " + p_y);
+            Console.WriteLine();
+            #endregion
 
             x = y;
 
@@ -137,7 +144,8 @@ namespace FNK
                 for (int k = -x; k <= x; k++)
                 {
 
-                    if(k == fx0 && i == 0)
+                    #region is/else_selected_points
+                    if (k == fx0 && i == 0)
                     {
 
                         m0x = k;
@@ -168,6 +176,14 @@ namespace FNK
                         Console.ForegroundColor = ConsoleColor.White;
                     }
 
+                    else if (i == p_y && k == p_x) 
+                    {
+
+                        Console.ForegroundColor = ConsoleColor.Cyan;
+                        Console.Write(" P");
+                        Console.ForegroundColor = ConsoleColor.White;
+                    }
+
                     else if (i <= 10 && k == 0)
                     { Console.Write(" Y"); }
 
@@ -176,6 +192,7 @@ namespace FNK
 
                     else
                     { Console.Write(" *"); }
+                    #endregion
                 }
 
                 Console.WriteLine();
@@ -199,6 +216,7 @@ namespace FNK
             Console.ReadKey();
         }
 
+        #region grapf function
         public static void funkcja_punkt(int x, int y, int p_x, int p_y)
         {
 
@@ -243,5 +261,6 @@ namespace FNK
                 Thread.Sleep(50);
             }
         }
+        #endregion
     }
 }
